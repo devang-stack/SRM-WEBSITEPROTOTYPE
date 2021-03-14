@@ -24,4 +24,4 @@
 
 4. Website is very  complex to use especially for New Users.
 
-5. Fonts and colors are not Eye Soothung.
+5. Fonts and colors are not Eye Soothing.
